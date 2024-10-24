@@ -32,7 +32,7 @@ You can install the required dependencies using `pip`:
 
 ```bash
 pip install torch torchvision numpy pandas
-
+```
 
 ## Data Structure
 The dataset is structured as CSV files containing:
@@ -48,7 +48,8 @@ Each image file represents the geometry of a shell with imperfections, and the c
 ## Run the training script:
 
 ```bash
-python network.py```
+python network.py
+```
 This will train the CNN model on the provided dataset. The trained model will be saved as a .pth file.
 
 ## Model Architecture
