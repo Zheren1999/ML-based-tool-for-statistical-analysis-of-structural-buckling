@@ -1,5 +1,3 @@
-# ML-based-tool-for-statistical-analysis-of-structural-buckling
-
 # ML Prediction of Buckling Pressure for Imperfect Hemispherical Shells
 
 This repository contains a machine learning project aimed at investigating and predicting the buckling pressure of hemispherical shells with imperfections using a deep learning approach. The data used in this project is generated from Abaqus simulations of imperfect shells.
